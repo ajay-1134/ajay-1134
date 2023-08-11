@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @ajay-1134
-- 👀 I’m interested in **PROGRAMMING**
-- 🌱 I’m currently learning **DSA**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Header](https://github.com/ajay-1134/ajay-1134/blob/main/Ajay%20Singh.png)
 
-<!---
-ajay-1134/ajay-1134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> Hello, people! <img src="https://github.com/Deepak5910/Deepak5910/blob/main/wave.gif" width="30px"> </h1>
+I'm <b>Ajay Singh</b>, Currently Studying Information Technology at [National Institute of Technology, Karnataka](https://www.nitk.ac.in/)
+
+I'm interested in Advanced Data Structures And Algorithms and Open-Source Projects.
+
+---
+
+## Go Check Out👉
+
+---
+
+## ⚡ Special Section ⚡
+
+
+---
+
+## 🔥 My Stats 🔥
+
+ 
+---
+
+📫 How to reach me: 
+
+[LinkedIn ](https://www.linkedin.com/in/ajay1134/)
+
+---
